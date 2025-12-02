@@ -23,9 +23,8 @@ I enjoy building fast, clean applications—from REST APIs to full-stack web app
 ---
 
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusMachel&layout=compact&theme=transparent)](https://github.com/MarkusMachel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusMachel&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Markus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkusMachel&show_icons=true&theme=transparent)
 
 ---
 
