@@ -22,13 +22,9 @@ I enjoy building fast, clean applications—from REST APIs to full-stack web app
 
 ---
 
-### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusMachel&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-
----
 
 ### 📫 How to reach me
-- ✉️ Email: *your email here (optional)*
-- 💼 LinkedIn: *your LinkedIn link (optional)*
+- ✉️ Email: machelmarkus@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/markusmachel/
 
